@@ -1,4 +1,4 @@
-# SmartTrader - C++ Trading Simulator (OOP)
+# GUD_trader - C++ Trading Simulator (OOP)
 
 A simulated trading bot built in C++ using solid object-oriented design.
 
